@@ -696,3 +696,8 @@ FodyWeavers.xsd
 # Media and static files
 backend/media/*
 backend/static/*
+media/*
+static/*
+
+# wsgi
+wsgi.py

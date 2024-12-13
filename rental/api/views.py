@@ -1,4 +1,5 @@
 from rest_framework import viewsets
+
 from rental.models import VehiclePhoto, VehicleCategory, Vehicle, Driver, Order
 from .serializers import VehiclePhotoSerializer, VehicleCategorySerializer, VehicleSerializer, DriverSerializer, OrderSerializer
 
